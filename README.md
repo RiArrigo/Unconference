@@ -23,7 +23,7 @@ For Example http://aischool.microsoft.com
 
 When you want to design and deploy any of these solutions please do get in touch
 
-**Rita Arrigo** - *Initial work* - [Rita Arrigo](https://github.com/riarrigo)
+**Rita Arrigo** - *Digital Advisor* - [Rita Arrigo](https://github.com/riarrigo)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
